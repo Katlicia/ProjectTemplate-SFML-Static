@@ -13,7 +13,7 @@ The `Scripts/` directory contains build scripts for Windows and Linux, and the `
 4. Open the `Scripts/` directory and run the appropriate `Setup` script to generate projects files. You can edit the setup scripts to change the type of project that is generated - out of the box they are set to Visual Studio 2022 for Windows and gmake2 for Linux.
 
 ## SFML
-Make sure SFML is in the Vendor folder.
+- Make sure SFML is in the Vendor folder.
 
 Note that no macOS setup script is currently provided; you can duplicate the Linux script and adjust accordingly.
 
