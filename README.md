@@ -14,6 +14,7 @@ The `Scripts/` directory contains build scripts for Windows and Linux, and the `
 
 ## SFML
 - Make sure SFML is in the Vendor folder.
+- If you update the project folder structure make sure you update the paths in the Build-App.lua file under the App folder.
 
 Note that no macOS setup script is currently provided; you can duplicate the Linux script and adjust accordingly.
 
